@@ -49,8 +49,6 @@ compreensível para o usuário, sem exposição de detalhes internos.
 
 ## 4. Casos de uso
 
-## 4. Casos de uso
-
 ### UC1 — Cadastrar sala
 
 **Operação:** `POST /rooms`
