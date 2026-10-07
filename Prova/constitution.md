@@ -39,3 +39,14 @@ do comportamento do sistema.
     planejamento, tarefas e testes.
 
 ## Como resolver conflitos
+
+Em caso de conflito entre os documentos do projeto, a
+especificação do comportamento do sistema deve prevalecer
+sobre decisões de implementação.
+
+Qualquer alteração em uma regra de negócio deve ser refletida
+nos documentos relacionados, mantendo a rastreabilidade entre
+especificação, planejamento, tarefas e testes.
+
+Decisões técnicas não devem alterar ou redefinir requisitos
+funcionais definidos na especificação.
