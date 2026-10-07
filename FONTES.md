@@ -16,7 +16,7 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | https://chatgpt.com/share/6ac6da82-668c-83e9-908a-60f8a1686557| Usei bastante para entregar os 5 arquivos| Os 5 arquivos tive que usar a IA para conseguir fazer a entrega|
+| — | | Site não busquei em nenhuma fonte só IA| |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -38,7 +38,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — | | |
+| — | https://chatgpt.com/share/6ac6da82-668c-83e9-908a-60f8a1686557| Usei bastante para entregar os 5 arquivos| Os 5 arquivos tive que usar a IA para conseguir fazer a entrega|
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
