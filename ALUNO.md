@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Mizuh
+Nome: Helder Augusto Kusagari Fukita
 
-RA: >>> PREENCHER <<<
+RA: >>> 231975742 <<<
 
 Conta GitHub: @HelderFukita
 
