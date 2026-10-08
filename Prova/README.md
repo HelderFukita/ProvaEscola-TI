@@ -115,5 +115,3 @@ As informações devem permanecer rastreáveis entre os documentos:
 
 Uma alteração em uma regra de negócio deve ser refletida nos
 documentos afetados, mantendo a consistência da documentação.
-
-O projeto deve evitar duplicação ou contradição entre os documentos.
